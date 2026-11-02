@@ -7,6 +7,10 @@
   "budget": null,
   "prize_amount": null,
   "ecosystem": "Solana",
+  "github_url": "https://github.com/wiliancolomboo-tech/web3-solana-liquidity-agent-191a75",
+  "hf_space_url": null,
   "status": "ready_for_submission",
-  "created_at": "2026-09-02 02:37:30"
+  "validation_reports": [],
+  "git_initialized": true,
+  "created_at": "2026-10-25 13:00:26"
 }
